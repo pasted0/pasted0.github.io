@@ -10,7 +10,6 @@
     <header>
         <h1> About Pasted-V1 </h1>
         <p> Pasted-V1 is a advanced hybrid client for game including: skywars (by Voxel) bedwars (by Easy.gg) slap battles and more</p>
-      
     </header>
 
     <footer>
