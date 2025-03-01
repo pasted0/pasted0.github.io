@@ -14,6 +14,11 @@
     </header>
 
     <footer>
+    <h3> Start Pasting </h3>
+    <p> https://e.com <p>
+    </footer>
+    
+    <footer>
         <p>Made with ❤️ by pasted0 (lead dev), baconroaster23(makes 90% of my guis not including this one and is the only reason i havent quit the comm) and, isai(emotional support)</p>
     </footer>
 </body>
