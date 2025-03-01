@@ -16,12 +16,12 @@
 <h2>So what are you wating for? start pasting now!</h2>
 </header>
     <footer>
-    <h3> Start Pasting </h3>
+    <h3> Get Pasted-V1 </h3>
     <p> https://e.com <p>
     </footer>
-    
     <footer>
         <p>Made with ❤️ by pasted0 (lead dev), baconroaster23(makes 90% of my guis not including this one and is the only reason i havent quit the comm) and, isai(emotional support)</p>
     </footer>
+    
 </body>
 </html>
