@@ -8,15 +8,10 @@
 </head>
 <body>
     <header>
-        <h1>About Pasted-V1</h1>
-        <p>Pasted-V1 is a advanced hybrid client for game including: skywars (by Voxel) bedwars (by Easy.gg) slap battles and more</p>
-      <p>So what are you wating for? start pasting now!</p>
+        <h1> About Pasted-V1 </h1>
+        <p> Pasted-V1 is a advanced hybrid client for game including: skywars (by Voxel) bedwars (by Easy.gg) slap battles and more</p>
+      <h2>So what are you wating for? start pasting now!</h2>
     </header>
-
-    <section>
-        <h2>Script Overview</h2>
-        <p>This script allows you to create custom commands in Roblox. You can define commands such as `Reset` and `Test`, which interact with the player's character or game state when triggered.</p>
-    </section>
 
     <footer>
         <p>Made with ❤️ by pasted0 (lead dev), baconroaster23(makes 90% of my guis not including this one and is the only reason i havent quit the comm) and, isai(emotional support)</p>
